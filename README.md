@@ -1,4 +1,4 @@
-# `dilla.sway.files`
+# `dilla.sway`
 distro: [`debian sid`](https://www.debian.org/releases/sid/) | Wayland: [`sway-wm`](https://github.com/swaywm/sway) | kernal: [`linux-tkg`](https://github.com/Frogging-Family/linux-tkg) - [`install linux-tkg on debian`](https://github.com/Frogging-Family/linux-tkg?tab=readme-ov-file#deb-debian-ubuntu-and-derivatives-and-rpm-fedora-suse-and-derivatives-based-distributions)
 
 ### `~click picture!~`
